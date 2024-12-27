@@ -1,4 +1,4 @@
-# PDF-Chatbot-System
+# Building a PDF Chatbot: Conversational AI Meets Document Interaction
 
 This project demonstrates a chatbot system that interacts with PDF files in a conversational manner. The chatbot extracts the text from a PDF document and allows users to query the content through a conversational interface. It uses LangChain and OpenAI models to provide responses based on the information in the PDF.
 
