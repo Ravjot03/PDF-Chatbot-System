@@ -10,4 +10,4 @@ This project demonstrates a chatbot system that interacts with PDF files in a co
 5. Stores chat history for context in a conversation.
 
 ## Medium Blog
-[Blog](https://ravjot03.medium.com/building-a-pdf-chatbot-conversational-ai-meets-document-interaction-3615f34c3487)
+Check my medium blog here -: [Blog](https://ravjot03.medium.com/building-a-pdf-chatbot-conversational-ai-meets-document-interaction-3615f34c3487)
